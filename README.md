@@ -1,6 +1,6 @@
 # mechanic
 
-A new Flutter project.
+A new flutter application helps you maintain the car by saving the last time for maintenance, setting the date for the next maintenance, and providing the closest places for maintenance.
 
 ## Getting Started
 
